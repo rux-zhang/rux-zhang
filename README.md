@@ -2,7 +2,7 @@
 
 ## About Me
 
-Mechatronics Engineering student at the University of Waterloo (co-op, class of 2031). I like cars!
+Mechatronics Engineering student at the University of Waterloo (co-op, class of 2031). I like cars and bikes!
 
 - LinkedIn: www.linkedin.com/in/ruixuan-zhang-a390bb326
 - Email: zhang.ruixuan0315@gmail.com
@@ -55,7 +55,7 @@ SC project exhaust replacement result
 
 ## Education
 
-- University of Waterloo, B.A.Sc. Mechatronics Engineering (2026 to 2031 expected)
+- University of Waterloo, B.A.Sc. Mechatronics Engineering (2026 to 2031)
 - John Abbott College, Natural Sciences DEC
 
 ## Languages
@@ -63,4 +63,4 @@ SC project exhaust replacement result
 - French and English (fluent)
 - Mandarin (conversational)
 
-More photos and videos on my LinkedIn : www.linkedin.com/in/ruixuan-zhang
+More photos and videos on my LinkedIn
