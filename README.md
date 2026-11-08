@@ -14,7 +14,7 @@ MTE 100 final project, Fall 2026 to present
 
 Team project to design and build a robot that plays chess using VEX, LEGO, and TETRIX. Combines mechanical design, motors, and programming into one working system.
 
-![Chess robot](./chess%20robot.jpg)
+<img src="./chess%20robot.jpg" alt="Chess robot" width="300">
 
 ### 2. Waterloo Formula Electric, Aerodynamics sub-team
 Sept 2026 to present
