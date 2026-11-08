@@ -34,7 +34,12 @@ Old tail light( left) vs new tail light (right)
 
 #### Motorcycle
 
-[<img src="https://img.youtube.com/vi/M_vtygaR-BI/hqdefault.jpg" width="300" alt="Motorcycle exhaust replacement">](https://youtu.be/M_vtygaR-BI)
+<p>
+  <a href="https://youtu.be/M_vtygaR-BI"><img src="https://img.youtube.com/vi/M_vtygaR-BI/hqdefault.jpg" width="300" alt="Motorcycle exhaust replacement"></a>
+  <img src="images/motorcycle.jpg" alt="Motorcycle during the exhaust installation" width="300">
+</p>
+
+Left: build video. Right: mid-installation photo.
 
 SC project exhaust replacement result
 
