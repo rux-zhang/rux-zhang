@@ -14,21 +14,17 @@ MTE 100 final project, Fall 2026 to present
 
 Team project to design and build a robot that plays chess using VEX, LEGO, and TETRIX. Combines mechanical design, motors, and programming into one working system.
 
-
+![Chess robot](./chess%20robot.jpg)
 
 ### 2. Waterloo Formula Electric, Aerodynamics sub-team
 Sept 2026 to present
 
 Supporting design, analysis, and testing of aero components for a Formula SAE electric race car. Took part in composite research and flat panel manufacturing with carbon fiber and resin.
 
-
-
 ### 3. Personal vehicle and motorcycle builds
 2024 to present
 
 Installed a cold air intake, upgraded headlight and taillight assemblies, replaced the front bumper, and replaced a motorcycle exhaust system, choosing compatible parts and doing the installs myself.
-
-
 
 ## Skills
 
