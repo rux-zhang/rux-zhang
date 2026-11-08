@@ -4,7 +4,7 @@
 
 Mechatronics Engineering student at the University of Waterloo (co-op, class of 2031). I like cars!
 
-- LinkedIn: https://linkedin.com/in/ruixuan-zhang
+- LinkedIn: www.linkedin.com/in/ruixuan-zhang-a390bb326
 - Email: zhang.ruixuan0315@gmail.com
 
 ## Projects
