@@ -26,6 +26,18 @@ Supporting design, analysis, and testing of aero components for a Formula SAE el
 
 Installed a cold air intake, upgraded headlight and taillight assemblies, replaced the front bumper, and replaced a motorcycle exhaust system, choosing compatible parts and doing the installs myself.
 
+#### Car
+
+[<img src="https://img.youtube.com/vi/pZRTN1w0yFI/hqdefault.jpg" width="300" alt="Tail Lights replacement">](https://youtu.be/pZRTN1w0yFI)
+
+Old tail light( left) vs new tail light (right)
+
+#### Motorcycle
+
+[<img src="https://img.youtube.com/vi/M_vtygaR-BI/hqdefault.jpg" width="300" alt="Motorcycle exhaust replacement">](https://youtu.be/M_vtygaR-BI)
+
+SC project exhaust replacement result
+
 ## Skills
 
 - C++
@@ -50,3 +62,5 @@ Installed a cold air intake, upgraded headlight and taillight assemblies, replac
 
 - French and English (fluent)
 - Mandarin (conversational)
+
+More photos and videos on my LinkedIn : www.linkedin.com/in/ruixuan-zhang
