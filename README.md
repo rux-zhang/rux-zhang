@@ -34,12 +34,18 @@ Old tail light( left) vs new tail light (right)
 
 #### Motorcycle
 
-<p>
-  <a href="https://youtu.be/M_vtygaR-BI"><img src="https://img.youtube.com/vi/M_vtygaR-BI/hqdefault.jpg" width="300" alt="Motorcycle exhaust replacement"></a>
-  <img src="./motorcycle.jpg" alt="Motorcycle during the exhaust installation" width="300">
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://youtu.be/M_vtygaR-BI"><img src="https://img.youtube.com/vi/M_vtygaR-BI/mqdefault.jpg" width="300" alt="Motorcycle exhaust replacement"></a>
+    </td>
+    <td valign="top">
+      <img src="images/motorcycle.jpg" width="300" alt="Motorcycle during the exhaust installation">
+    </td>
+  </tr>
+</table>
 
-SC project exhaust replacement result
+Left: build video (click to watch). Right: mid-installation photo. Replaced the exhaust with an SC Project aftermarket system.
 
 ## Skills
 
