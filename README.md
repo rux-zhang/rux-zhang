@@ -40,7 +40,7 @@ Old tail light( left) vs new tail light (right)
       <a href="https://youtu.be/M_vtygaR-BI"><img src="https://img.youtube.com/vi/M_vtygaR-BI/mqdefault.jpg" width="300" alt="Motorcycle exhaust replacement"></a>
     </td>
     <td valign="top">
-      <img src="images/motorcycle.jpg" width="300" alt="Motorcycle during the exhaust installation">
+      <img src="./motorcycle.jpg" width="300" alt="Motorcycle during the exhaust installation">
     </td>
   </tr>
 </table>
