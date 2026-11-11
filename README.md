@@ -21,6 +21,8 @@ Sept 2026 to present
 
 Supporting design, analysis, and testing of aero components for a Formula SAE electric race car. Took part in composite research and flat panel manufacturing with carbon fiber and resin.
 
+<img src="./FE_FlatPanel.jpg" alt="Formula Electric flat panel" width="300">
+
 ### 3. Personal vehicle and motorcycle builds
 2024 to present
 
