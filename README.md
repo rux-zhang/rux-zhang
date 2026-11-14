@@ -56,6 +56,7 @@ Left: build video (click to watch). Right: mid-installation photo. Replaced the 
 - SolidWorks
 - AutoCAD
 - CAD modelling
+- Geometric Dimensioning & Tolerancing
 - Excel
 - Mechanical assembly
 - Troubleshooting and diagnostics
